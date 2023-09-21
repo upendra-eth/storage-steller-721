@@ -10,4 +10,4 @@ name = "storage"
 path = "src/lib.rs"
 
 [dependencies]
-soroban-sdk = { workspace = true }
+soroban-sdk = { version = "0.4.3" }
